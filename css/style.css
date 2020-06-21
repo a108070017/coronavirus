@@ -250,6 +250,12 @@ input[type="month"] {
 textarea {
   overflow: auto;
   resize: vertical; }
+.ftco-counter .text strong.number {
+    font-weight: 800;
+    font-size: 44px;
+    color: #2f89fc;
+    display: block;
+}
 
 fieldset {
   min-width: 0;
