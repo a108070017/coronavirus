@@ -402,6 +402,12 @@ mark,
   margin-bottom: 1rem;
   font-size: 1.25rem; }
 
+.single_counter h1 {
+    font-family: "Roboto", sans-serif;
+    font-size: 72px;
+    color: #ffffff;
+    margin-bottom: 50px;
+}
 .blockquote-footer {
   display: block;
   font-size: 80%;
