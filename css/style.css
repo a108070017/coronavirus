@@ -118,7 +118,15 @@ strong {
 
 small {
   font-size: 80%; }
-
+.single_counter {
+    margin-bottom: 30px;
+}
+.single_counter {
+    background: rgba(255, 255, 255, 0.2);
+    box-shadow: 0 0 50px rgba(153, 153, 153, 0.1);
+    text-align: center;
+    padding: 50px 20px;
+}
 sub,
 sup {
   position: relative;
