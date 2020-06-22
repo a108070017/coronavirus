@@ -8682,6 +8682,17 @@ textarea.form-control {
       padding-top: 5em;
       padding-bottom: 5em; } }
 
+.our_depertment:after {
+    position: absolute;
+    content: "";
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #1c19ab;
+    opacity: 0.8;
+    z-index: -1;
+}
 .ftco-animate {
   opacity: 0;
   visibility: hidden; }
