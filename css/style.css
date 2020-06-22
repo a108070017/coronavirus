@@ -8768,13 +8768,24 @@ textarea.form-control {
       -webkit-transition: all 0.3s ease;
       -ms-transition: all 0.3s ease;
       transition: all 0.3s ease; }
-.our_depertment {
+.depertment {
     background-image: url(../images/ccc.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
     z-index: 1;
+}
+.depertment:after {
+    position: absolute;
+    content: "";
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #1c19ab;
+    opacity: 0.8;
+    z-index: -1;
 }
   .staff .text {
     position: relative;
