@@ -8940,7 +8940,8 @@ depertment:after {
       color: #fff !important; }
 
 .feature_part{
-  padding: 70px 0;
+      padding: 7em 0;
+    position: relative;
 }
 
 .footer-small-nav > li {
