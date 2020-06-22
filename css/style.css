@@ -8776,6 +8776,10 @@ textarea.form-control {
     position: relative;
     z-index: 1;
 }
+.depertment section_padding{
+  padding: 7em 0;
+    position: relative;
+  }
 .depertment:after {
     position: absolute;
     content: "";
@@ -9095,14 +9099,7 @@ textarea.form-control {
       background: rgba(255, 255, 255, 0.3); }
       .testimony-section .owl-dots .owl-dot.active {
         background: #fff; }
-.our_depertment {
-    background-image: url(../images/666.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-    z-index: 1;
-}
+
 .testimony-wrap {
   display: block;
   position: relative;
