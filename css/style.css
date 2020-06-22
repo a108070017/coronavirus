@@ -8939,6 +8939,10 @@ depertment:after {
       transform: translate(-50%, -50%);
       color: #fff !important; }
 
+.feature_part{
+  padding: 70px 0;
+}
+
 .footer-small-nav > li {
   display: inline-block; }
   .footer-small-nav > li a {
