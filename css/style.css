@@ -8994,7 +8994,10 @@ depertment:after {
   color: #207dff;
   letter-spacing: 2px;
   font-weight: 600; }
-
+.ftco-counter {
+  padding: 7em 0;
+    position: relative;
+  }
 .heading-section h2 {
   line-height: 1.2;
   font-size: 44px;
