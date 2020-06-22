@@ -8682,7 +8682,7 @@ textarea.form-control {
       padding-top: 5em;
       padding-bottom: 5em; } }
 
-.our_depertment:after {
+depertment:after {
     position: absolute;
     content: "";
     left: 0;
@@ -8769,7 +8769,7 @@ textarea.form-control {
       -ms-transition: all 0.3s ease;
       transition: all 0.3s ease; }
 .depertment {
-    background-image: url(../images/ccc.png);
+    background-image: url(../images/.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
